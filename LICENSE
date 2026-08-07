@@ -1,0 +1,55 @@
+Copyright © 2026 Bloom Studio, Maxime Almy
+Tous droits réservés.
+
+beside. (« le Logiciel ») est un logiciel propriétaire. La présente licence
+encadre l'utilisation du binaire compilé distribué via les Releases GitHub
+de ce dépôt.
+
+1. Utilisation autorisée
+
+   Toute personne ayant obtenu une copie légitime du binaire compilé
+   (« l'Application ») est autorisée à l'installer et l'utiliser
+   gratuitement, à des fins personnelles ou professionnelles, sur les
+   machines de son choix.
+
+2. Restrictions
+
+   Sauf autorisation écrite préalable de Bloom Studio, il est interdit de :
+
+   - redistribuer, republier, revendre ou mettre à disposition l'Application
+     (ou toute copie, modifiée ou non) par un canal autre que le dépôt
+     officiel GitHub de Bloom Studio ;
+   - modifier, décompiler, désassembler ou tenter d'extraire le code source
+     de l'Application, sauf dans les limites strictement autorisées par la
+     loi applicable ;
+   - créer une œuvre dérivée de l'Application ;
+   - utiliser le nom « beside. », le nom « Bloom Studio », ou l'identité
+     visuelle associée (icône, logo), en dehors d'une simple mention de la
+     source de l'Application.
+
+3. Code source
+
+   Le code source de l'Application n'est pas publié sur ce dépôt. Les
+   fichiers présents ici (README, documentation, visuels) sont fournis à
+   titre informatif uniquement et ne constituent pas une mise à disposition
+   du code source sous licence libre.
+
+4. Contributions
+
+   Ce dépôt n'accepte pas de contributions externes (pull requests). Les
+   suggestions et signalements de bugs sont les bienvenus via les Issues
+   GitHub, mais leur traitement reste à la seule discrétion de Bloom Studio.
+
+5. Aucune garantie
+
+   L'Application est fournie « telle quelle », sans garantie d'aucune
+   sorte, expresse ou implicite, y compris sans garantie de qualité
+   marchande, d'adéquation à un usage particulier ou d'absence de
+   contrefaçon. Bloom Studio ne pourra être tenu responsable d'aucun
+   dommage direct ou indirect résultant de l'utilisation ou de
+   l'impossibilité d'utiliser l'Application.
+
+6. Contact
+
+   Pour toute demande d'autorisation ou question relative à cette licence :
+   maxime.almy@icloud.com

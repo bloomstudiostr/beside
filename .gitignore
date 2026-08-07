@@ -1,0 +1,19 @@
+.build/
+build/
+dist/
+.DS_Store
+
+# Local Claude Code settings — contains absolute paths from this machine.
+.claude/settings.local.json
+
+# Ce repo GitHub est public mais ne diffuse que le binaire (via Releases) :
+# seuls README.md, LICENSE et .gitignore sont suivis par git. Tout le reste
+# (code source, scripts de build, roadmap interne) reste local uniquement.
+Sources/
+Package.swift
+Info.plist
+build-app.sh
+make-dmg.sh
+ROADMAP.md
+DEVELOPMENT.md
+Resources/
