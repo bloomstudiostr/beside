@@ -3,9 +3,9 @@
 > every setup, one click.
 
 beside. est une première brique. L'ambition de Bloom Studio va au-delà de
-ce seul outil : repositionner un écran n'est qu'un début, d'autres apps du
-même genre suivront pour simplifier l'accès au numérique au quotidien,
-qu'il soit professionnel ou privé. À suivre.
+ce seul outil : repositionner un écran n'est qu'un début pour simplifier
+l'accès au numérique au quotidien, qu'il soit professionnel ou privé.
+beside va évoluer avec le temps.
 
 ![Dernière version](https://img.shields.io/github/v/release/bloomstudiostr/beside?label=version)
 ![Plateforme](https://img.shields.io/badge/plateforme-macOS%2013%2B-lightgrey)
